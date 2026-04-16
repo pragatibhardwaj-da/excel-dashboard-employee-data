@@ -17,6 +17,9 @@ This project analyzes Employee data using an interactive Excel dashboard.
 
 ##  Files
 - employee-data-dashboard-excel.xlsx
+- dashboard-screenshot.png
 
 ##  How to Use
 Download the Excel file and open it in Microsoft Excel.
+
+
