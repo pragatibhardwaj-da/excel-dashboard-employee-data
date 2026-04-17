@@ -1,12 +1,12 @@
-# Excel Employee-Info Dashboard
+## Excel Employee-Info Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes Employee data using an interactive Excel dashboard. 
 
-## 📊 Dataset
+##  Dataset
 The dataset used in this project was synthetically generated for learning and demonstration purposes. 
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 The dataset included inconsistencies and missing values, which were cleaned using Excel functions before building the dashboard.
 
 ##  Tools Used
